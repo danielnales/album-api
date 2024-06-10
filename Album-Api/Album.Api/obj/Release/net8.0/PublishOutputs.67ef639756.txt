@@ -1,0 +1,16 @@
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\bin\Release\net8.0\publish\Album.Api.exe
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\bin\Release\net8.0\publish\appsettings.Development.json
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\bin\Release\net8.0\publish\appsettings.json
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\bin\Release\net8.0\publish\Album.Api.dll
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\bin\Release\net8.0\publish\Album.Api.deps.json
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\bin\Release\net8.0\publish\Album.Api.runtimeconfig.json
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\bin\Release\net8.0\publish\Album.Api.pdb
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\bin\Release\net8.0\publish\Newtonsoft.Json.dll
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\bin\Release\net8.0\publish\xunit.abstractions.dll
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\bin\Release\net8.0\publish\xunit.assert.dll
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\bin\Release\net8.0\publish\xunit.core.dll
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\bin\Release\net8.0\publish\xunit.execution.dotnet.dll
