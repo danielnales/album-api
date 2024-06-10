@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Album-Api",
+    "\\Album-Api\\Album.Api",
+    "\\Album.Api.Tests"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\Album.Api.Tests\\Album.Api.Tests.csproj",
   "PreviewInSolutionExplorer": false
 }

@@ -1,4 +1,6 @@
-﻿using Xunit;
+using Xunit;
+using Moq;
+using Microsoft.Extensions.Logging;
 using Album.Api.Services;
 
 namespace Album.Api.Tests
@@ -6,10 +8,12 @@ namespace Album.Api.Tests
     public class GreetingServiceTests
     {
         private readonly GreetingService _greetingService;
+        private readonly Mock<ILogger<GreetingService>> _mockLogger;
 
         public GreetingServiceTests()
         {
-            _greetingService = new GreetingService();
+            _mockLogger = new Mock<ILogger<GreetingService>>();
+            _greetingService = new GreetingService(_mockLogger.Object);
         }
 
         [Fact]

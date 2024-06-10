@@ -1,0 +1,8 @@
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\obj\Debug\net8.0\Album.Api.csproj.AssemblyReference.cache
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\obj\Debug\net8.0\Album.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\obj\Debug\net8.0\Album.Api.AssemblyInfoInputs.cache
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\obj\Debug\net8.0\Album.Api.AssemblyInfo.cs
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\obj\Debug\net8.0\Album.Api.csproj.CoreCompileInputs.cache
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\obj\Debug\net8.0\Album.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\obj\Debug\net8.0\Album.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api\obj\Debug\net8.0\Album.Api.sourcelink.json
