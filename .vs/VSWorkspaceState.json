@@ -3,8 +3,8 @@
     "",
     "\\Album-Api",
     "\\Album-Api\\Album.Api",
-    "\\Album.Api.Tests"
+    "\\Album-Api\\Album.Api.Tests"
   ],
-  "SelectedNode": "\\Album.Api.Tests\\Album.Api.Tests.csproj",
+  "SelectedNode": "\\Album-Api\\Album.Api.Tests\\Album.Api.Tests.csproj",
   "PreviewInSolutionExplorer": false
 }

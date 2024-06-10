@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Album.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc8f060a0d61b8c6badb06e0a40b10746d201524")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aefa20c056603af204806c29d0ae9584c95bc82a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Album.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Album.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

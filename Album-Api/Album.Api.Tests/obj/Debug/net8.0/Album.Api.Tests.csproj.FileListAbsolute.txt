@@ -1,0 +1,7 @@
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api.Tests\obj\Debug\net8.0\Album.Api.Tests.csproj.AssemblyReference.cache
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api.Tests\obj\Debug\net8.0\Album.Api.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api.Tests\obj\Debug\net8.0\Album.Api.Tests.AssemblyInfoInputs.cache
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api.Tests\obj\Debug\net8.0\Album.Api.Tests.AssemblyInfo.cs
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api.Tests\obj\Debug\net8.0\Album.Api.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api.Tests\obj\Debug\net8.0\Album.Api.Tests.sourcelink.json
+C:\Users\Basic\Documents\album-api\Album-Api\Album.Api.Tests\bin\Debug\net8.0\CoverletSourceRootsMapping_Album.Api.Tests
