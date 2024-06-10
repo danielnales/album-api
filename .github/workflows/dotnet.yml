@@ -26,3 +26,13 @@ jobs:
       run: dotnet build Album-Api/Album-Api.sln --no-restore
     - name: Test
       run: dotnet test Album-Api/Album.Api.Tests/Album.Api.Tests.csproj --verbosity normal
+  build-docker:
+      runs-on: ubuntu-latest
+      needs: build
+  
+      steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        
+      - name: Build Docker image
+        run: docker build -t album-api .
