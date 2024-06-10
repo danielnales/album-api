@@ -5,6 +5,6 @@
     "\\Album-Api\\Album.Api",
     "\\Album.Api.Tests"
   ],
-  "SelectedNode": "\\Album.Api.Tests\\GreetingServiceTests.cs",
+  "SelectedNode": "\\Album.Api.Tests\\Album.Api.Tests.csproj",
   "PreviewInSolutionExplorer": false
 }
