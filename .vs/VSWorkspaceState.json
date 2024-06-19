@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\Album-Api",
-    "\\Album-Api\\Album.Api.Tests"
+    "\\Album-Api\\Album.Api",
+    "\\Album-Api\\Album.Api.Tests",
+    "\\Album-Api\\Album.Api\\Services"
   ],
-  "SelectedNode": "\\Dockerfile",
+  "SelectedNode": "\\Album-Api\\Album.Api.Tests\\GreetingServiceTests.cs",
   "PreviewInSolutionExplorer": false
 }

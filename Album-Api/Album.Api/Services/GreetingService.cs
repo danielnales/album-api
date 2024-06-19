@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
+using System.Net;
 
 namespace Album.Api.Services
 {
@@ -24,7 +25,7 @@ namespace Album.Api.Services
                 return "Hello, World!";
             }
             _logger.LogInformation("Greeting requested with name: {Name}", name);
-            return $"Hello, {name}!";
+            return $"Hello, {name} from {Dns.GetHostName()}!";
         }
     }
 }

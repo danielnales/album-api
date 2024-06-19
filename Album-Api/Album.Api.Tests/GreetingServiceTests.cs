@@ -2,6 +2,7 @@ using Xunit;
 using Moq;
 using Microsoft.Extensions.Logging;
 using Album.Api.Services;
+using System.Net;
 
 namespace Album.Api.Tests
 {
@@ -20,7 +21,7 @@ namespace Album.Api.Tests
         public void GetGreeting_WithName_ReturnsGreetingWithName()
         {
             var result = _greetingService.GetGreeting("John");
-            Assert.Equal("Hello, John!", result);
+            Assert.Equal($"Hello, John from {Dns.GetHostName()}!", result);
         }
 
         [Theory]
