@@ -21,7 +21,7 @@ namespace Album.Api.Tests
         public void GetGreeting_WithName_ReturnsGreetingWithName()
         {
             var result = _greetingService.GetGreeting("John");
-            Assert.Equal($"Hello, John from {Dns.GetHostName()}!", result);
+            Assert.Equal($"Hello, John from {Dns.GetHostName()}v2!", result);
         }
 
         [Theory]

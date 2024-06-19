@@ -9,6 +9,6 @@
     "\\Album-Api\\Album.Api\\Controllers",
     "\\Album-Api\\Album.Api\\Services"
   ],
-  "SelectedNode": "\\.github\\workflows\\dotnet.yml",
+  "SelectedNode": "\\Album-Api\\Album.Api.Tests\\GreetingServiceTests.cs",
   "PreviewInSolutionExplorer": false
 }

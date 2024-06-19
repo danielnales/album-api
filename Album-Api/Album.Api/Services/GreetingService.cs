@@ -25,7 +25,7 @@ namespace Album.Api.Services
                 return "Hello, World!";
             }
             _logger.LogInformation("Greeting requested with name: {Name}", name);
-            return $"Hello, {name} from {Dns.GetHostName()}!";
+            return $"Hello, {name} from {Dns.GetHostName()}v2!";
         }
     }
 }
