@@ -3,10 +3,10 @@
 namespace Album.Api.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("health")]
     public class HealthController : ControllerBase
     {
-        [HttpGet("health")]
+        [HttpGet]
         public IActionResult GetHealth()
         {
             return Ok("Healthy");
