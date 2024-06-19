@@ -1,12 +1,14 @@
 {
   "ExpandedNodes": [
     "",
+    "\\.github",
+    "\\.github\\workflows",
     "\\Album-Api",
     "\\Album-Api\\Album.Api",
     "\\Album-Api\\Album.Api.Tests",
     "\\Album-Api\\Album.Api\\Controllers",
     "\\Album-Api\\Album.Api\\Services"
   ],
-  "SelectedNode": "\\task-definition.json",
+  "SelectedNode": "\\.github\\workflows\\dotnet.yml",
   "PreviewInSolutionExplorer": false
 }
