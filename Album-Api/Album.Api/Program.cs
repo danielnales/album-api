@@ -25,12 +25,19 @@ namespace Album.Api
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Album API", Version = "v1"});
             });
 
+            builder.Services.AddCors();
+
             builder.Services.AddDbContext<AlbumContext>(options =>
             {
                 options.UseNpgsql("Host=cnsd-db-934870780723.czxid8ngsmgl.us-east-1.rds.amazonaws.com;Port=5432;Database=albumdatabase;Username=postgres;Password=postgres;");
             });
 
             var app = builder.Build();
+
+            app.UseCors(policy => policy
+                .AllowAnyMethod()
+                .AllowAnyHeader()
+                .AllowAnyOrigin());
 
             app.UseSwagger();
             app.UseSwaggerUI(c => 
