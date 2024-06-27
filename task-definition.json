@@ -1,5 +1,4 @@
 {
-  "taskDefinitionArn": "arn:aws:ecs:us-east-1:934870780723:task-definition/AlbumTaskDefinition:2",
   "containerDefinitions": [
     {
       "name": "AlbumContainer",
