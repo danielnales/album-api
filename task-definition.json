@@ -16,7 +16,10 @@
         }
       ],
       "essential": true,
-      "environment": [],
+      "environment": {
+        "name": "CONNECTIONSTRINGS__DEFAULTCONNECTION",
+        "value": "Host=cnsd-db-934870780723.czxid8ngsmgl.us-east-1.rds.amazonaws.com;Port=5432;Database=albumdatabase;Username=postgres;Password=postgres;"
+      },
       "environmentFiles": [],
       "mountPoints": [],
       "volumesFrom": [],

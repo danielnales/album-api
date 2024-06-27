@@ -1,36 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Basic\\Documents\\album-api\\Album-Api\\Album.Api.Tests\\Album.Api.Tests.csproj": {}
+    "/home/packetphysicist/Documents/album-api/Album-Api/Album.Api.Tests/Album.Api.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Basic\\Documents\\album-api\\Album-Api\\Album.Api.Tests\\Album.Api.Tests.csproj": {
+    "/home/packetphysicist/Documents/album-api/Album-Api/Album.Api.Tests/Album.Api.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Basic\\Documents\\album-api\\Album-Api\\Album.Api.Tests\\Album.Api.Tests.csproj",
+        "projectUniqueName": "/home/packetphysicist/Documents/album-api/Album-Api/Album.Api.Tests/Album.Api.Tests.csproj",
         "projectName": "Album.Api.Tests",
-        "projectPath": "C:\\Users\\Basic\\Documents\\album-api\\Album-Api\\Album.Api.Tests\\Album.Api.Tests.csproj",
-        "packagesPath": "C:\\Users\\Basic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Basic\\Documents\\album-api\\Album-Api\\Album.Api.Tests\\obj\\",
+        "projectPath": "/home/packetphysicist/Documents/album-api/Album-Api/Album.Api.Tests/Album.Api.Tests.csproj",
+        "packagesPath": "/home/packetphysicist/.nuget/packages/",
+        "outputPath": "/home/packetphysicist/Documents/album-api/Album-Api/Album.Api.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Basic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/packetphysicist/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Basic\\Documents\\album-api\\Album-Api\\Album.Api\\Album.Api.csproj": {
-                "projectPath": "C:\\Users\\Basic\\Documents\\album-api\\Album-Api\\Album.Api\\Album.Api.csproj"
+              "/home/packetphysicist/Documents/album-api/Album-Api/Album.Api/Album.Api.csproj": {
+                "projectPath": "/home/packetphysicist/Documents/album-api/Album-Api/Album.Api/Album.Api.csproj"
               }
             }
           }
@@ -39,17 +36,24 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Testing": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.8.0, )"
@@ -87,29 +91,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.104/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Basic\\Documents\\album-api\\Album-Api\\Album.Api\\Album.Api.csproj": {
+    "/home/packetphysicist/Documents/album-api/Album-Api/Album.Api/Album.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Basic\\Documents\\album-api\\Album-Api\\Album.Api\\Album.Api.csproj",
+        "projectUniqueName": "/home/packetphysicist/Documents/album-api/Album-Api/Album.Api/Album.Api.csproj",
         "projectName": "Album.Api",
-        "projectPath": "C:\\Users\\Basic\\Documents\\album-api\\Album-Api\\Album.Api\\Album.Api.csproj",
-        "packagesPath": "C:\\Users\\Basic\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Basic\\Documents\\album-api\\Album-Api\\Album.Api\\obj\\",
+        "projectPath": "/home/packetphysicist/Documents/album-api/Album-Api/Album.Api/Album.Api.csproj",
+        "packagesPath": "/home/packetphysicist/.nuget/packages/",
+        "outputPath": "/home/packetphysicist/Documents/album-api/Album-Api/Album.Api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Basic\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/packetphysicist/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -122,24 +123,31 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
         }
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
             },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.8.1, )"
             }
           },
           "imports": [
@@ -161,7 +169,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.104/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
